@@ -1,0 +1,8 @@
+:root {
+  font-size: 16px;
+  --white: #ffffff;
+  --black: #000000;
+  --grey: #7f7f7f;
+  --clear: #e8e5e480;
+  --main-font: 'Roboto', sans-serif;
+}
